@@ -12,4 +12,4 @@ export PS1="\[\033[38;5;160m\][\[$(tput bold)\]\[$(tput sgr0)\]\[\033[38;5;243m\
 BROWSER=/usr/bin/chromium
 EDITOR=/usr/bin/nano
 # >>>>>END ADDED BY CNCHI INSTALLER<<<<< #
-force_color_prompt=yes  "]]]}]]]]]]]]"
+force_color_prompt=yes
